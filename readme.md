@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 working on eGame tournament website<br>🌱 learning few new stuff like Rust <br>🤝 wanna have collaborator?<br>💬 reach me out on my social media <br>
+🔭 working on AI inside website<br>🌱 learning few new stuff like WPF <br>🤝 wanna have collaborator?<br>💬 reach me out on my social media <br>
 
 
 ## 🌐 Socials:
